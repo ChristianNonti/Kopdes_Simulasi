@@ -51,8 +51,3 @@ Kalau game terasa berat, buka menu **⚙️ Pengaturan**:
 - 🚗 **Lalu Lintas Jalan** dan 🌫️ **Jarak Pandang**.
 - 📈 **Resolusi Otomatis** dan batas FPS.
 
-
-
-## 👤 Pembuat
-
-**ChristianNonti**, dibuat sebagai tugas mata kuliah **Grafika Game**.
